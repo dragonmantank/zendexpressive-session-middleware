@@ -1,0 +1,8 @@
+<?php
+
+return [
+    'sessions' => [
+        'manager' => 'zend-session',
+        'options' => []
+    ]
+]
